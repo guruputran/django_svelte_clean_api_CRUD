@@ -8,7 +8,10 @@ https://madewithsvelte.com/svelte-mui
 
 There is no CORS issue, if settings.py is specified which local host will be used
 
-How to start FE? npm run dev
+How to start FE? 
+```bash
+npm run dev
+```
 
 How to start BE?
 ```bash
